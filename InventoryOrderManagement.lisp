@@ -1,0 +1,8 @@
+(format t "Inventory & Order Management")
+(format t "Real-time inventory tracking & management: Systems that provide up-to-the-minute information on stock levels across multiple locations (warehouses & stores), helping prevent stockouts & overstocking.")
+(format t "Automated reordering: Set up reorder points & automate purchase order generation when inventory falls below thresholds, reducing manual effort & ensuring timely replenishment.")
+(format t "Wholesale Order Management Systems: Solutions designed specifically for bulk orders, centralizing orders from multiple channels (online, phone, email) and synchronizing with real-time inventory to streamline processing and fulfillment.")
+(format t "Order processing & automation: Reduce errors & delays by automating tasks like order confirmation, invoicing, and routing.")
+(format t "Inbound inventory management: Integrate with supplier systems to track inbound shipments & manage stock rotation (e.g., FIFO - First In, First Out), according to Mintsoft.")
+(format t "Stock allocation: Tools that intelligently manage stock allocation, especially for businesses with high backorder rates.")
+(format t "Multi-channel order management: Integrate with various sales channels like e-commerce platforms, POS systems, and B2B portals for unified order management.")
